@@ -103,3 +103,6 @@ medium.com
 Google Search Suggestions
 Display of Search Suggestions is required when using Grounding with Google Search. Learn more
 "msitarzewski/agency-agents" github
+
+
++당근마켓 커뮤니티처럼 컨셉을 따라가면 좋을듯.
