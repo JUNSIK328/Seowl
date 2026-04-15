@@ -1,10 +1,6 @@
 # Seowl
 Seoul never sleeps, and neither does Seowl.
 
-아하! msitarzewski/agency-agents (The Agency) 레포지토리를 사용 중이시군요! 정말 탁월한 선택입니다.
-
-이 도구는 AI에게 단순히 "코딩해 줘"라고 하는 대신, 'Frontend Developer', 'Growth Hacker', 'Database Optimizer' 등 고도로 전문화된 페르소나(에이전트)를 부여하여 Cursor, Claude Code, Windsurf 같은 개발 환경에서 협업할 수 있게 해주는 강력한 컬렉션[1][2]입니다.
-
 작성하신 **Seowl 프로젝트 기획안을 이 'Agency-Agents' 환경에 100% 활용하는 완벽한 워크플로우와 명령어(프롬프트)**를 안내해 드립니다.
 
 💡 핵심 세팅: Seowl 프로젝트 컨텍스트 파일 만들기
